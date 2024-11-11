@@ -10,3 +10,11 @@ We evaluated our model on multiple histopathology datasets. Experiments were con
 - **Breast cancer histology** ([BreakHis](https://ieeexplore.ieee.org/document/7312934/))
 - **Colon cancer histopathology dataset** ([CCH](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1685-x))
 
+
+## Citation
+
+If you use this work in your research, please cite the following paper:
+
+[**A Novel Convolution Transformer-Based Network for Histopathology Image Classification Using Adaptive Convolution and Dynamic Attention**](https://www.sciencedirect.com/science/article/pii/S0952197624009825#tbl12)  
+*Engineering Applications of Artificial Intelligence, Volume 135, September 2024, 108824*
+
